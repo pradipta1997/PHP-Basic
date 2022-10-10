@@ -1,0 +1,5 @@
+Pada (latihan 10) ini ada perbedaan dengan (Latihan 11), dimana pada project
+latihan 10 ini saya menggunakan metode "AJAX" untuk "Live Search" nya.
+
+Sedangkan pada project (Latihan 11), saya menggunakan metode "JQUERY" untuk
+"Live Search" nya.

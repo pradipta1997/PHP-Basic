@@ -1,0 +1,4 @@
+Pada project latihan 12 ini, secara isi dan data sama
+seperti latihan 10 & 11. Hanya saja pada latihan 12 ini
+saya sedang membuat PDF Reporting. Dimana saya sedang
+menggubah file/script PHP menjadi PDF.

@@ -1,0 +1,39 @@
+Seluruh cara untuk meng-online-kan website
+dari "latihan11" ada di video "webprogramingunpas"
+di video ke-22.
+
+Step by step nya ;
+
+1.Daftar akun terlebih dahulu di web hosting infinityfree.net
+
+2.Setelah terdaftar masuk ke halaman client area.
+
+3.Tunggu beberapa saat sampai hosting berstatus active
+
+4.Lalu setelah active masuk ke control panel yang diberi
+
+5.Create FTP Client
+
+6.Download apk FileZilla lalu hubungkan dengan data yang ada pada FTP Client.
+
+7.Setelah itu transfer file nya. Contoh seluruh file di folder latihan11
+
+8.Buat MySQL database Account, buat juga nama database nya
+
+9.Ambil file database kita yang di localhost/phpmyadmin. namanya phpdasar
+  lalu export database phpdasar nya.
+
+10.buka phpmyadmin di control panel hosting kita, lalu import databasenya.
+
+11.Setelah itu buka file manager, cari file functions.php (koneksi db).
+   Klik edit dengan code editor yang diberi oleh controlpanel-nya.
+
+12.Ubah url server nya sesuai data yang ada pada MySQL database Control Panel.
+   Lalu klik save.
+
+13.Lalu masuk ke tab software, pilih "alter php config" lalu ubah directive
+   nya sesuai nama domain yang kita inginkan.
+
+14.Optional, buatkan juga webmail nya, rekomendasi menggunakan "Roundcube".
+
+15.Jika semua sudah selesai, jalankan websitenya.
